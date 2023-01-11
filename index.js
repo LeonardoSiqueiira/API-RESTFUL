@@ -47,11 +47,3 @@ mongoose
 })
 .catch((err) => console.log(err))
 
-
-
-
-
-
-//mongodb+srv://leonardo:jjJJI2rhnZavXO4H@apicluster.q2enkqp.mongodb.net/bancodaapi?retryWrites=true&w=majority
-
-// jjJJI2rhnZavXO4H
